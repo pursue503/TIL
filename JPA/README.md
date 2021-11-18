@@ -2,3 +2,5 @@
 
 1. [JPA 소개](https://github.com/pursue503/TIL/tree/main/JPA/JPA%20%EC%86%8C%EA%B0%9C)
 2. [JPA 내부 구조](https://github.com/pursue503/TIL/tree/main/JPA/JPA%20%EB%82%B4%EB%B6%80%EA%B5%AC%EC%A1%B0)
+3. [JPA 엔티티 매핑](https://github.com/pursue503/TIL/tree/main/JPA/JPA%20%EC%97%94%ED%8B%B0%ED%8B%B0%20%EB%A7%A4%ED%95%91)
+4. [JPA 연관관계 매핑](https://github.com/pursue503/TIL/tree/main/JPA/JPA%20%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84%20%EB%A7%A4%ED%95%91)
